@@ -61,4 +61,5 @@ Aplicação web completa para o processo seletivo da Rede Alpha Fitness.
 - Logs detalhados para debug
 
 ## 👨‍💻 Autor
+MaTheus Reis Machado
 Desenvolvido para o processo seletivo da Rede Alpha Fitness.
